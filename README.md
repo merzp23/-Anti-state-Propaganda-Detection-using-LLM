@@ -160,7 +160,6 @@ Notes:
 - Metrics are copied from the corresponding notebook outputs (best runs shown when multiple are available)
 
 ## License
+```
 Tran Huynh Anh Phuc - UIT - 22521141
 Tran Tan Tai - UIT - 22521287
-
-```
