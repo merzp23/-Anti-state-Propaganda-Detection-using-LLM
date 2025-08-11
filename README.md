@@ -1,11 +1,10 @@
-```markdown
 # Vietnamese Political Content Analysis and Classification
 
 This repository contains a comprehensive pipeline for analyzing, processing, and classifying Vietnamese political content to detect and categorize subversive or politically sensitive comments.
 
 ## Project Structure
 
-```
+```bash
 Paper_ChongPha/GithubUpload/
 │
 ├── thuyetminhdetai.pdf      # Project proposal/description document
