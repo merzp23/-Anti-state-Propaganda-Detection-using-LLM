@@ -39,7 +39,7 @@ MANIFEST
 *SECRET*
 
 # Data files (if they contain sensitive information)
-# *.csv
+*.csv
 *.json
 *.pkl
 *.pickle
